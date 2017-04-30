@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.0_341a234e1c457e2ffe280a928a36c0b079041fd0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_4a5eb4c1316bd7fe5c92aa59c8ba8d0dee4a2cca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.0_a9ccb7073ecf5036fccafff4ee517864d4d3089d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_0169760c35118b370a105113aaeb5f9fe567c547.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.0_dab77983dec20f681da854670e8c1ceabbecc4bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.0_bf4025ae224f2d8b2c8ad1d264e6e5f9d32f96b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.0_9e4d851bbb42f2debc6069d30b04d3c86420fa23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_81828bcc4f95ed95bc810e529d403cefad8b1b86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.0_fbd9ba2488491ae00ee22dbcf18178a77b0369bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.0.1_cededd2337d8b6fe8a33174649489bd2d1293d18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.0_93a3dc73a6945c416e9328dbabeeb6e80bb7cb66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.0.0_0844e9332c036215d49c903b47c501a283b42a0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.0.0_4b3d00fbb17df8dad8cca96bcd5bc325366891b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.0_4cdc49b673f2639dea938ce030a0fae24ad49851.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.0.1_5b7078ef2a6603f543fa607671a688aebc93aaf9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.0.0_0844e9332c036215d49c903b47c501a283b42a0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_81828bcc4f95ed95bc810e529d403cefad8b1b86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_d1c3c21b7ce0f1e175ae81580a06d182fff4441d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sherd\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.0_5f6b946d99f51260bc31dbf700f71145d2ee88b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.0_9e4d851bbb42f2debc6069d30b04d3c86420fa23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-10.0.1_fe665bdc26bfb1115909829f904f9a80a72728d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_4a5eb4c1316bd7fe5c92aa59c8ba8d0dee4a2cca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.0_fdec3f5421edf1e2c631f462cec95dd427451cd0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\exploded-aar\com.android.support\design\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.0.0_0c09d51a8c32a154f54f0a5499db844462a3a80f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_25c997d588151b9d455e545facca52b451e300b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b2ba0ee185052557d9641c80296fc6d5b4a83fa9">
+        <dex dex="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_3b9d2ed35a72dee79eefd7115ad0ca22925fc578.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.0.1_1bfee0b85ae01b2fcb663e0e06a43793367d8799.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\exploded-aar\com.android.support\design\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.0.0_0c09d51a8c32a154f54f0a5499db844462a3a80f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.0_fdec3f5421edf1e2c631f462cec95dd427451cd0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.0.1_cededd2337d8b6fe8a33174649489bd2d1293d18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_0169760c35118b370a105113aaeb5f9fe567c547.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.0_a9ccb7073ecf5036fccafff4ee517864d4d3089d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.0_341a234e1c457e2ffe280a928a36c0b079041fd0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.0_bf4025ae224f2d8b2c8ad1d264e6e5f9d32f96b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.0_93a3dc73a6945c416e9328dbabeeb6e80bb7cb66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.0_fbd9ba2488491ae00ee22dbcf18178a77b0369bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_d1c3c21b7ce0f1e175ae81580a06d182fff4441d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.0_4cdc49b673f2639dea938ce030a0fae24ad49851.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="840920949b6dd918544f837a5933c52c28acac8e">
+        <dex dex="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\pre-dexed\debug\instant-run_32790f82583f3cb625b4033916e3628944ecd16d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.0_dab77983dec20f681da854670e8c1ceabbecc4bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-10.0.1_fe665bdc26bfb1115909829f904f9a80a72728d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sherd\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.0_5f6b946d99f51260bc31dbf700f71145d2ee88b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_25c997d588151b9d455e545facca52b451e300b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.0.1_5b7078ef2a6603f543fa607671a688aebc93aaf9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.0.1_1bfee0b85ae01b2fcb663e0e06a43793367d8799.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="C:\Users\sherd\Desktop\rentfield\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.0.0_4b3d00fbb17df8dad8cca96bcd5bc325366891b1.jar" />
+    </item>
+
+</items>
