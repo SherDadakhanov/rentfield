@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:state_selected="true"
+        android:drawable="@drawable/timew">
+    </item>
+
+    <item
+        android:drawable="@drawable/timeb" >
+    </item></selector>
+
+<!--<?xml version="1.0" encoding="utf-8"?>-->
+<!--<selector xmlns:android="http://schemas.android.com/apk/res/android">-->
+    <!--&lt;!&ndash; When selected, use grey &ndash;&gt;-->
+    <!--<item android:drawable="@drawable/timeb"-->
+        <!--android:state_selected="true" />-->
+    <!--&lt;!&ndash; When not selected, use white&ndash;&gt;-->
+    <!--<item android:drawable="@drawable/timew" />-->
+<!--</selector>-->
